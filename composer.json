@@ -1,8 +1,8 @@
 {
-    "name": "phpoffice/phpspreadsheet",
+    "name": "andrewreshetnikov/phpspreadsheet",
     "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": ["PHP", "OpenXML", "Excel", "xlsx", "xls", "ods", "gnumeric", "spreadsheet"],
-    "homepage": "https://github.com/PHPOffice/PhpSpreadsheet",
+    "homepage": "https://github.com/andrewreshetnikov/PhpSpreadsheet",
     "type": "library",
     "license": "LGPL-2.1-or-later",
     "authors": [
@@ -51,7 +51,6 @@
         "ext-xml": "*",
         "ext-xmlreader": "*",
         "ext-xmlwriter": "*",
-        "ext-zip": "*",
         "ext-zlib": "*",
         "psr/simple-cache": "^1.0",
         "markbaker/complex": "^1.4",
